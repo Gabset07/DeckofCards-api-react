@@ -1,0 +1,30 @@
+.DeckdeCartas{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.DeckdeCartas{
+    background-color: cornflowerblue;
+}
+
+li {
+    margin-top: 50px;
+}
+
+button{
+    margin-top: 20px;
+    padding: 15px;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(82, 12, 12);
+    border: 3px solid red ;
+    border-radius: 40px;
+    background-color: brown;
+    cursor: pointer;
+}
+button:hover{
+    background-color: crimson;
+}
