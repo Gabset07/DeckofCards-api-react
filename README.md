@@ -1,3 +1,44 @@
+# Projeto React + Api Deck of cards
+Este é um projeto feito com React consumindo uma api chamada deck of card. Link : https://www.deckofcardsapi.com
+
+Este é um dos diversos projeto que farei consumindo api junto com react.
+
+
+
+## Projeto: ![Deck-of-cards-api](https://github.com/Gabset07/DeckofCards-api-react/assets/103261889/46588ba1-37d9-4a53-ad63-40c7d0fbae21)
+
+
+
+
+
+
+
+## Finalidade
+Começar a dominar o react.
+
+
+## Tecnologias
+
+#### React
+#### Api
+#### Html
+#### Git
+#### CSS
+
+## Desafios 
+Fazer a abstração dos dados da api.
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
